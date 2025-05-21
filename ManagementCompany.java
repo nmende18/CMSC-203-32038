@@ -1,6 +1,6 @@
 /*
- * Class: CMSC203 32038
- * Instructor:Ashique Tanveer
+ * Class: CMSC203 
+ * Instructor:
  * Description: (A property management company manages individual properties)
  * Due: 04/02/2024
  * Platform/compiler:Eclipse
