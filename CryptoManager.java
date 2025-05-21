@@ -1,6 +1,6 @@
 /*
- * Class: CMSC203 CRN 32038
- * Instructor: ASHIQUE TANVEER
+ * Class: CMSC203 
+ * Instructor: 
  * Description: (Crypto manager)
  * Due: 03/22/24
  * Platform/compiler: Eclipse
