@@ -1,6 +1,6 @@
 /*
  * Class: CMSC203 
- * Instructor: Ashique Tanveer
+ * Instructor: 
  * Description: (A program using classes to display patient's information and procedures)
  * Due: 02/27/2024
  * Platform/compiler: Eclipse
