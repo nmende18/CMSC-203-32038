@@ -1,6 +1,6 @@
 /*
  * Class: CMSC203
- * Instructor: Ashique Tanveer.
+ * Instructor: 
  * Description: A program that is an ESP game.
  * Due: 02/13/24
  * Platform/compiler: Eclipse.
